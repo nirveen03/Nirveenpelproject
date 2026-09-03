@@ -1,20 +1,20 @@
-# Nirveen Tankray - Student Portfolio
+# Nirveen Tankray — Student Portfolio
 
-Modern responsive portfolio website for a CSE student.
+A modern responsive portfolio website.
 
-## Details
+### Personal / Academic Details
 - **Name:** Nirveen Tankray
-- **School:** Kendriya Vidyalaya Sangathan (KVS)
+- **School:** KVS
 - **University:** Lovely Professional University
 - **Discipline:** Computer Science & Engineering
 - **Email:** nirveenTankray5@gmail.com
 - **Phone:** +91 8675846578
 
-## Files
-- `index.html` — portfolio structure
-- `style.css` — responsive modern design
-- `script.js` — mobile menu and reveal animations
+### Files
+- `index.html`
+- `style.css`
+- `script.js`
 
-## GitHub Pages
-Upload all three files to the root of your `main` branch and enable:
-**Settings → Pages → Deploy from a branch → main → /(root)**
+### GitHub Pages
+Upload the files to the root of the `main` branch, then use:
+Settings → Pages → Deploy from a branch → `main` → `/ (root)`.
